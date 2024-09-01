@@ -1,0 +1,14 @@
+
+.navbar-scroll {
+    transition: opacity 0.5s;
+}
+
+.navbar-scrolled {
+    opacity: 0.9;
+}
+
+
+.tall-section {
+    background-color: #f8f8f8;
+    height: 1000px; 
+}
